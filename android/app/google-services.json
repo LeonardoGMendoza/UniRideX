@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461304931095",
+    "project_id": "uniridex",
+    "storage_bucket": "uniridex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461304931095:android:e3ebdcdf133f13de8a8d52",
+        "android_client_info": {
+          "package_name": "com.uniridex.uniridex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461304931095-86889ic75ac1765e5ctkcs773gcdhdvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlB3oKwqENsQD7HqkYKL8ydHvzjFgS-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461304931095-86889ic75ac1765e5ctkcs773gcdhdvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
