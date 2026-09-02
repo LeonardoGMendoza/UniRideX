@@ -4897,6 +4897,8 @@ google_identity_services_web
 google_sign_in
 google_sign_in_platform_interface
 plugin_platform_interface
+url_launcher
+url_launcher_platform_interface
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
@@ -10092,6 +10094,12 @@ limitations under the License.
 google_sign_in_android
 google_sign_in_ios
 google_sign_in_web
+url_launcher_android
+url_launcher_ios
+url_launcher_linux
+url_launcher_macos
+url_launcher_web
+url_launcher_windows
 vector_math
 
 Copyright 2013 The Flutter Authors
